@@ -1,0 +1,9 @@
+temperature:
+  source:
+    url: http://localhost:8081/app/v1/tracker
+server:
+  port: 9999
+
+variables:
+  button: MMXDDYMMZ771775776FFY336225WWXAAYCCZDDYJJYEEP226AAZIIYKKQAAL
+  link: https://Y-DhD7u+7Lak-dcjj95@7NbmNng-SJZUnIl-XzxFE_sC21.com
